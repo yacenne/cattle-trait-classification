@@ -364,9 +364,8 @@ MIT License - See LICENSE file for details
 ## 👤 Author
 
 **Yaseen Shees**
-- Email: [your-email@example.com]
-- LinkedIn: [linkedin.com/in/your-profile]
-- GitHub: [github.com/your-username]
+- Email: yaseenumarshees@gmail.com
+- GitHub: https://github.com/yacenne
 
 ---
 
