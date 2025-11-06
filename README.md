@@ -100,7 +100,7 @@ text
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/YOUR_USERNAME/cattle-trait-prediction.git
+git clone https://github.com/yacenne/cattle-trait-prediction.git
 cd cattle-trait-prediction
 
 text
